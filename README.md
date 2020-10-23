@@ -2,8 +2,7 @@
 
 ## Co-founder of Windy City Devs LLC, a remote full-stack TA at Vanderbilt University, and a course Author with [Newline](https://www.newline.co/).
 
-- 🛠 &nbsp;I work with the JAMstack, TypeScript, Node, and React's Nextjs on my personal projects.
-- 📱 &nbsp;I’m currently optimizing an approach for strongly typing GraphQL schema using Apollo codegen from remote GraphQL endpoints (Headless WordPress).
+- 🛠 &nbsp;I work with the JAMstack, TypeScript, Node, and React's Nextjs on my personality projects.
 
 ### Connect with me
 
