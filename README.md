@@ -2,7 +2,7 @@
 
 ## Co-founder of Windy City Devs LLC, a remote full-stack TA at Vanderbilt University, and a course Author with [Newline](https://www.newline.co/).
 
-- 🛠 &nbsp;I work with the JAMstack, TypeScript, Node, and React's Nextjs on my personal projects.
+- 🛠 &nbsp;I work with the JAMstack, TypeScript, Node, and React's Nextjs on my personal and professional projects.
 
 ### Connect with me
 
