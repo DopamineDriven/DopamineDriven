@@ -13,4 +13,10 @@
 
 <br />
 
-<img align="left" alt="dopaminedriven's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dopaminedriven&show_icons=true&hide_border=true" />
+![](https://raw.githubusercontent.com/dopaminedriven/dopaminedriven/master/profile-summary-card-output/dracula/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/dopaminedriven/dopaminedriven/master/profile-summary-card-output/dracula/3-stats.svg)
+
+![](https://komarev.com/ghpvc/?username=dopaminedriven&color=blueviolet&style=flat-square)
+
+![](https://github-readme-stats.vercel.app/api?username=dopaminedriven&show_icons=true&hide_border=true)
