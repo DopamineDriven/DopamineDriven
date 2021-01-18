@@ -13,6 +13,8 @@
 
 <br />
 
+![](https://hit.yhype.me/github/profile?user_id=46355797)
+
 ![](https://raw.githubusercontent.com/dopaminedriven/dopaminedriven/master/profile-summary-card-output/dracula/0-profile-details.svg)
 
 ![](https://raw.githubusercontent.com/dopaminedriven/dopaminedriven/master/profile-summary-card-output/dracula/3-stats.svg)
