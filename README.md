@@ -11,14 +11,14 @@
 [<img align="left" alt="social-media-profile | GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" target="_blank" />](https://gitlab.com/DopamineDriven)
 [<img align="left" alt="social-media-profile | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" target="_blank" />](https://stackoverflow.com/users/13243520/andrew-ross)
 
-<br/>
+<br />
+
+
+| Most Committed        | Repos/Language           | Stats  |
+| :-------------: |:-------------:| :-----:|
+| ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)      | ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg) | ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/3-stats.svg) |
+
 
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
-
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
-
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
-
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/3-stats.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=dopaminedriven&show_icons=true&hide_border=true)
