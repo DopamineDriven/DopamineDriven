@@ -10,8 +10,7 @@
 [<img align="left" alt="social-media-profile | LinkedIn" width="50px" style="max-width:100%;background-color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />](https://www.linkedin.com/in/asross)
 [<img align="left" alt="social-media-profile | GitLab" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" target="_blank" style="max-width:100%;background-color:blue;" />](https://gitlab.com/DopamineDriven)
 [<img align="left" alt="social-media-profile | Stack Overflow" width="50px" style="max-width:100%;background-color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" target="_blank" />](https://stackoverflow.com/users/13243520/andrew-ross)
-
-<br />
+---------
 
 
 | Most Committed        | Repos/Language           | Stats  |
