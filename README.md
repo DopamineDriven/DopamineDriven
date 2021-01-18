@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrew Ross 👋
 
-### Co-founder of Windy City Devs LLC, a remote full-stack TA at Vanderbilt University, and a course Author with [Newline](https://www.newline.co/) on building an e-commerce store with Headless WordPress via AWS Cloudfront, Nextjs, Apollo, GraphQL, TypeScript, Tailwindcss, and more.
+### Co-founder of Windy City Devs LLC, a remote full-stack TA at Vanderbilt University, and a course Author with [Newline](https://www.newline.co/) on building a JAMstack e-commerce store via AWS, Nextjs, Apollo, GraphQL, TypeScript, Vercel, Tailwindcss, and more.
 
 - 🛠 &nbsp;I work with the JAMstack, TypeScript, Node, and React's Nextjs on my personal and professional projects.
 
