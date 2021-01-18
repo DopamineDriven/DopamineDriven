@@ -6,10 +6,10 @@
 
 ### Connect with me
 
-[<img align="left" alt="social-media-profile | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" />](https://twitter.com/Dopamine_Driven)
-[<img align="left" alt="social-media-profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />](https://www.linkedin.com/in/asross)
-[<img align="left" alt="social-media-profile | GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" target="_blank" />](https://gitlab.com/DopamineDriven)
-[<img align="left" alt="social-media-profile | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" target="_blank" />](https://stackoverflow.com/users/13243520/andrew-ross)
+[<img align="left" alt="social-media-profile | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" style="background-color:blue;max-width: 100%;" />](https://twitter.com/Dopamine_Driven)
+[<img align="left" alt="social-media-profile | LinkedIn" width="50px" style="max-width:100%;background-color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />](https://www.linkedin.com/in/asross)
+[<img align="left" alt="social-media-profile | GitLab" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" target="_blank" style="max-width:100%;background-color:blue;" />](https://gitlab.com/DopamineDriven)
+[<img align="left" alt="social-media-profile | Stack Overflow" width="50px" style="max-width:100%;background-color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" target="_blank" />](https://stackoverflow.com/users/13243520/andrew-ross)
 
 <br />
 
