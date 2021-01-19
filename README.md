@@ -1,8 +1,8 @@
 ### Hi there, I'm Andrew Ross 👋
 
-### Co-founder of Windy City Devs LLC, a remote full-stack TA at Vanderbilt University, and a course Author with [Newline](https://www.newline.co/) on building a JAMstack e-commerce store via AWS, Nextjs, Apollo, GraphQL, TypeScript, Vercel, Tailwindcss, and more.
+### Co-founder of Windy City Devs LLC, a remote full-stack TA at Vanderbilt University, and a course Author with [Newline](https://www.newline.co/).
 
-- 🛠 &nbsp;I work with the JAMstack, TypeScript, Node, and React's Nextjs on my personal and professional projects.
+- 🛠 &nbsp;The JAMstack is my JAM, as are TypeScript, Node, and Next.js. Tinkering with Nextserverless &nbsp;⚙
 
 | Most Committed        | Repos/Language           | Stats  |
 | :-------------: |:-------------:| :-----:|
@@ -17,4 +17,4 @@
 [<img align="center" alt="social-media-profile | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" style="background-color:blue;max-width: 100%;" />](https://twitter.com/Dopamine_Driven)
 [<img align="center" alt="social-media-profile | LinkedIn" width="50px" style="max-width:100%;background-color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />](https://www.linkedin.com/in/asross)
 [<img align="center" alt="social-media-profile | GitLab" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" target="_blank" style="max-width:100%;background-color:blue;" />](https://gitlab.com/DopamineDriven)
-[<img align="center" alt="social-media-profile | Stack Overflow" width="50px" style="max-width:100%;background-color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" target="_blank" />](https://stackoverflow.com/users/13243520/andrew-ross)
+
