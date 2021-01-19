@@ -2,9 +2,9 @@
 
 ### Co-founder of Windy City Devs LLC, a remote full-stack TA at Vanderbilt University, and a course Author with [Newline](https://www.newline.co/).
 
-- 🛠 &nbsp;The JAMstack is my JAM, as are TypeScript, Node, and Next.js. Tinkering with Nextserverless &nbsp;⚙
+- 🛠 &nbsp;The JAMstack is my JAM, as is TypeScript, Node, and Next.js. Tinkering with Nextserverless &nbsp;⚙
 
-| Most Committed        | Repos/Language           | Stats  |
+| Most Committed        | Languages/Repo           | Stats  |
 | :-------------: |:-------------:| :-----:|
 | ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)      | ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg) | ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/3-stats.svg) |
 
