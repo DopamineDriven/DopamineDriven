@@ -10,11 +10,9 @@
 
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=dopaminedriven&show_icons=true&hide_border=true)
-
 ### Connect with me
 
 [<img align="center" alt="social-media-profile | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" style="background-color:blue;max-width: 100%;" />](https://twitter.com/Dopamine_Driven)
 [<img align="center" alt="social-media-profile | LinkedIn" width="50px" style="max-width:100%;background-color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />](https://www.linkedin.com/in/asross)
 [<img align="center" alt="social-media-profile | GitLab" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" target="_blank" style="max-width:100%;background-color:blue;" />](https://gitlab.com/DopamineDriven)
-
+[<img align="center" alt="social-media-profile | Stack Overflow" width="50px" style="max-width:100%;background-color:black;fill:black;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" target="_blank" />](https://stackoverflow.com/users/13243520/andrew-ross)
