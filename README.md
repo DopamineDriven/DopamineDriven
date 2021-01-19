@@ -10,7 +10,7 @@
 
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
 
-### Connect with me
+### Let's Connect
 
 [<img align="center" alt="social-media-profile | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" style="background-color:blue;max-width: 100%;" />](https://twitter.com/Dopamine_Driven)
 [<img align="center" alt="social-media-profile | LinkedIn" width="50px" style="max-width:100%;background-color:blue;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />](https://www.linkedin.com/in/asross)
