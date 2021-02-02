@@ -23,18 +23,6 @@ Here are all cards with themes.
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/default/1-repos-per-language.svg)
 
 
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/default/2-most-commit-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/default/3-stats.svg)
-
-
 ### solarized
 
 
@@ -48,18 +36,6 @@ Here are all cards with themes.
 [![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/solarized/1-repos-per-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/solarized/2-most-commit-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/solarized/3-stats.svg)
 
 
 ### solarized_dark
@@ -77,18 +53,6 @@ Here are all cards with themes.
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
 
 
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/solarized_dark/3-stats.svg)
-
-
 ### vue
 
 
@@ -102,18 +66,6 @@ Here are all cards with themes.
 [![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/vue/1-repos-per-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/vue/2-most-commit-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/vue/3-stats.svg)
 
 
 ### dracula
@@ -131,18 +83,6 @@ Here are all cards with themes.
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/dracula/1-repos-per-language.svg)
 
 
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/dracula/2-most-commit-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/dracula/3-stats.svg)
-
-
 ### monokai
 
 
@@ -156,18 +96,6 @@ Here are all cards with themes.
 [![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/monokai/1-repos-per-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/monokai/2-most-commit-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/monokai/3-stats.svg)
 
 
 ### nord_bright
@@ -185,18 +113,6 @@ Here are all cards with themes.
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)
 
 
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_bright/3-stats.svg)
-
-
 ### nord_dark
 
 
@@ -212,18 +128,6 @@ Here are all cards with themes.
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 
 
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/nord_dark/3-stats.svg)
-
-
 ### github
 
 
@@ -237,16 +141,4 @@ Here are all cards with themes.
 [![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ```
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/github/1-repos-per-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/github/2-most-commit-language.svg)
-
-
-```
-[![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/github/3-stats.svg)
 
