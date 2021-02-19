@@ -2,7 +2,7 @@
 
 ### Co-founder of Windy City Devs LLC, a remote full-stack TA at Vanderbilt University, and a course Author with [Newline](https://www.newline.co/).
 
-### 🛠 &nbsp;The JAMstack is my JAM, as is TypeScript, Node, and Next.js. Tinkering with Nextserverless &nbsp;⚙
+### 🛠 &nbsp;The JAMstack is my JAM, mostly of a TypeScript, Node, and Next.js variety. Tinkering with Nextserverless &nbsp;⚙
 
 | Most Committed        | Languages/Repo           | Stats  |
 | :-------------: |:-------------:| :-----:|
