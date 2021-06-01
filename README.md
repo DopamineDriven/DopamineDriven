@@ -1,8 +1,8 @@
 ### Hi there, I'm Andrew Ross 👋
 
-### Co-founder of Windy City Devs LLC, a remote full-stack TA at Vanderbilt University, and a course Author with [Newline](https://www.newline.co/).
+### Co-founder of Windy City Devs LLC and a course Author with [Newline](https://www.newline.co/).
 
-### 🛠 &nbsp;The JAMstack is my JAM, mostly of a TypeScript, Node, and Next.js variety. Tinkering with Nextserverless &nbsp;⚙
+### 🛠 &nbsp;The JAMstack is my JAM, mostly of a TypeScript, Node, and Next.js variety. GraphQL over REST. Exploring the benefits of using SWR+graphql-request instead of apollo Client &nbsp;⚙
 
 | Most Committed        | Languages/Repo           | Stats  |
 | :-------------: |:-------------:| :-----:|
