@@ -15,16 +15,6 @@
 ### Each card usage
 ---
 
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/highcontrast/2-most-commit-language.svg)
-```
-
-    
-
----
-
 ![](./3-stats.svg)
 
 ```
