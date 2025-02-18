@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
+```
+
+    
