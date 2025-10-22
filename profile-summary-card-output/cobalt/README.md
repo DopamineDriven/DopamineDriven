@@ -15,10 +15,10 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
+![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/cobalt/0-profile-details.svg)
+![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/cobalt/1-repos-per-language.svg)
 ```
 
     
@@ -29,6 +29,16 @@
 
 ```
 ![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/cobalt/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/DopamineDriven/DopamineDriven/main/profile-summary-card-output/cobalt/3-stats.svg)
 ```
 
     
