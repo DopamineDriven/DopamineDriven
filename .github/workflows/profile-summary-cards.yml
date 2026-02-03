@@ -4,7 +4,7 @@ on:
   create:
   push:
   schedule:
-    - cron: "* */1 * * *"
+    - cron: "* */24 * * *"
   workflow_dispatch:
 
 jobs:
